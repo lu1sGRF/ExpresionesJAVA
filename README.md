@@ -1,4 +1,4 @@
-`# Proyecto de Expresiones y Análisis en Java
+# Proyecto de Expresiones y Análisis en Java
 
 ## Descripción
 Este proyecto consta de cinco aplicaciones en Java que abordan diversas funcionalidades relacionadas con expresiones regulares y análisis léxico. Cada aplicación tiene un propósito específico, desde validar direcciones de correo electrónico hasta analizar expresiones matemáticas. A continuación, se proporciona una breve descripción de cada una de las aplicaciones incluidas:
