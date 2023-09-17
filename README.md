@@ -13,6 +13,8 @@ Este proyecto consta de cinco aplicaciones en Java que abordan diversas funciona
 
 5. **ExpresionesRegulares:** Una aplicación con interfaz gráfica que permite a los usuarios ingresar expresiones matemáticas y analizarlas léxicamente.
 
+[![1.png](https://i.postimg.cc/hGL9gYN5/1.png)](https://postimg.cc/3ywyFt8X)
+
 ## Instalación
 Cada una de las aplicaciones puede ser ejecutada individualmente. Asegúrate de tener Java instalado en tu sistema y sigue las instrucciones específicas en el código fuente de cada aplicación para compilar y ejecutar.
 
